@@ -1,212 +1,131 @@
-<div align="center">
-
-<img src="./header.svg" width="100%" alt="Amogh Dandotiya — backend / systems engineer">
-
-<br/>
-
-<a href="https://github.com/wreckx-in-scene">
-  <img src="https://img.shields.io/badge/GitHub-wreckx--in--scene-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:amoghdandotiya123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</div>
-
-<br>
-
-## `~/about`
-
-```text
-I build backend and systems software with a focus on performance,
-concurrency, networking, distributed systems, and infrastructure.
-
-Currently working primarily with Go and modern C++.
-```
-
-### `core`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,postgres,redis,docker,linux,git,github" alt="Core technologies">
+<p align="center">
+  <img src="./header.svg" width="100%" />
 </p>
+# Hi, I'm Amogh Dandotiya 👋
 
-`Go` · `C++17` · `gRPC` · `REST` · `PostgreSQL` · `Redis` · `Docker` · `CMake`  
-`Concurrency` · `Multithreading` · `Networking` · `Distributed Systems` · `System Design`
+### Backend & Systems Engineer
 
----
+Building backend infrastructure, high-performance systems, and developer-focused software with **Go and C++**.
 
-## `selected_work`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ AuthForge
-
-**Multi-tenant authentication platform**
-
-`Go` `gRPC` `PostgreSQL` `Redis` `Docker`
-
-- Tenant-isolated user bases
-- API-key resolution + per-tenant JWT signing
-- Refresh-token rotation with theft detection
-- Redis-backed gRPC rate limiting
-- Stateless JWT verification with caching
-
-**→ [View repository](https://github.com/wreckx-in-scene/AuthForge)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛰️ FlowDPI
-
-**Multi-threaded deep packet inspection engine**
-
-`C++17` `PCAP` `Networking` `CMake`
-
-- Raw Ethernet / IPv4 / TCP / TLS processing
-- Zero-copy TLS Client Hello parsing
-- Real-time SNI extraction + classification
-- Concurrent flow processing
-- Thread-safe / lock-free queue pipeline
-- Dynamic filtering + connection tracking
-
-**→ [View repository](https://github.com/wreckx-in-scene/FlowDPI)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 VectorDB
-
-**C++ vector engine + local RAG pipeline**
-
-`C++` `Go` `HNSW` `Ollama` `REST`
-
-- HNSW approximate nearest-neighbor search
-- 768-dimensional embeddings
-- Cosine + Euclidean distance
-- Go gateway around the C++ engine
-- Local RAG with Ollama
-- KD-tree vs HNSW benchmarking
-
-**→ [View repository](https://github.com/wreckx-in-scene/VectorDB)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Engineering interests
-
-I like projects where the interesting part is beneath the API:
-
-```text
-concurrency
-     ↓
-memory + data structures
-     ↓
-networking
-     ↓
-storage
-     ↓
-distributed systems
-```
-
-The goal: understand the system, then make it fast.
-
-</td>
-</tr>
-</table>
+Interested in **distributed systems, concurrency, networking, databases, and systems programming**.
 
 ---
 
-## `proof_of_work`
+## About Me
 
-<table>
-<tr>
-<td align="center" width="33%">
+* 🎓 CSE undergraduate at **IIIT Kalyani**
+* ⚙️ Building backend and systems software primarily with **Go & C++**
+* 🧩 Interested in **distributed systems, networking, concurrency, databases, and system design**
+* 🔧 I enjoy building systems from scratch to understand how they work internally
+* 🧠 **700+ algorithmic problems** solved across competitive programming platforms
+* 🚀 Currently focused on becoming a stronger **backend / systems engineer**
 
-### 600+
+---
 
-algorithmic problems
+## Tech Stack
 
-</td>
-<td align="center" width="33%">
+**Languages**
 
-### 1625
+`Go` `C++` `C` `JavaScript` `SQL`
 
-LeetCode rating
+**Backend & APIs**
 
-</td>
-<td align="center" width="33%">
+`REST` `gRPC` `Gin` `Microservices`
 
-### 3★ 
+**Databases & Storage**
 
-CodeChef
+`PostgreSQL` `Redis` `SQLite` `MongoDB` `MySQL`
 
-</td>
-</tr>
-</table>
+**Systems & Networking**
+
+`Concurrency` `Multithreading` `Networking` `Distributed Systems` `Rate Limiting`
+
+**Infrastructure & Tools**
+
+`Docker` `Docker Compose` `Git` `GitHub` `CMake` `CI/CD`
+
+**Specialized**
+
+`HNSW` `Vector Search` `RAG` `Ollama` `Bytecode VMs` `Compiler Design`
+
+---
+
+## Featured Projects
+
+| Project       | Stack                                   | Description                                                                                                                                                                                 |
+| ------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AuthForge** | Go · gRPC · PostgreSQL · Redis · Docker | Multi-tenant authentication platform with tenant isolation, API-key resolution, JWT signing, refresh-token rotation, Redis caching, and distributed rate limiting.                          |
+| **FlowDPI**   | C++17 · PCAP · Networking · CMake       | Multi-threaded deep packet inspection engine with zero-copy TLS Client Hello/SNI parsing, connection tracking, 5-tuple flow hashing, and concurrent packet-processing pipelines.            |
+| **VectorDB**  | C++ · Go · HNSW · Ollama                | Vector search engine and local RAG system featuring HNSW approximate nearest-neighbor search, multiple distance metrics, Ollama embeddings, and benchmarking against KD-trees.              |
+| **GoVM**      | Go · Compiler · VM                      | Bytecode compiler and stack-based virtual machine implementing a Lox-like language with scanning, Pratt parsing, bytecode generation, functions, closures, recursion, and native functions. |
+
+### 🔗 Project Repositories
+
+* [AuthForge](https://github.com/wreckx-in-scene/AuthForge)
+* [FlowDPI](https://github.com/wreckx-in-scene/FlowDPI)
+* [VectorDB](https://github.com/wreckx-in-scene/VectorDB)
+* [GoVM](https://github.com/wreckx-in-scene/GoVM)
+
+---
+
+## Experience
+
+### Software Development Intern — Wisit Digital Innovations
+
+**Jun 2025 – Aug 2025**
+
+* Architected and developed REST-based backend microservices.
+* Optimized PostgreSQL-backed backend pipelines for concurrent workloads.
+* Reduced average API latency by **35%** under concurrent load.
+* Removed redundant network round-trips across backend request flows.
+
+---
+
+## Achievements
+
+* 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
+* 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
+* 💻 **700+ algorithmic problems** solved across competitive programming platforms
+* ⭐ **Codeforces — 1362**
+* ⭐ **LeetCode — 1625**
+* ⭐ **CodeChef — 3 Star**
+
+---
+
+## What I'm Exploring
+
+Currently going deeper into:
+
+* Distributed systems
+* High-performance backend engineering
+* Go internals & idiomatic backend architecture
+* C++ systems programming
+* Networking & concurrency
+* Databases and storage engines
+* System design
+
+---
+
+## Currently Building
+
+## Currently Building
+
+> **Sharded Key-Value Database**
+
+Exploring **data partitioning, concurrent access, replication, and distributed storage** while building a key-value database from scratch.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/amogh-dandotiya/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-wreckx--in--scene-black?style=flat-square\&logo=github)](https://github.com/wreckx-in-scene)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/u/wreckx_26/)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wreckx-in-scene&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f8fafc&text_color=94a3b8&icon_color=38bdf8&rank_icon=github" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wreckx-in-scene&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=f8fafc&text_color=94a3b8" height="165">
+  <i>Building systems. Breaking abstractions. Learning how things work underneath.</i>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wreckx-in-scene&theme=github-dark-blue&hide_border=true&background=00000000" height="165">
-</p>
-
----
-
-## `highlights`
-
-- 🏁 **Top 10 finalist** — iRage AlgoArena '26, among 455+ participants
-- 🥈 **2nd place, Hardware Track** — StatusCode 1 Hackathon
-- 🏆 **State Rank 1** — SOF NCO
-- 🏆 **State Ranks 2 & 3** — SOF NSO / NBTO
-- 🎓 **B.Tech CSE** — IIIT Kalyani, 2023–2027
-
----
-
-## `experience`
-
-**Software Development Intern — Wisit Digital Innovations**  
-`June 2025 — August 2025`
-
-- Architected RESTful microservice APIs with modular boundaries around third-party data sources.
-- Optimized PostgreSQL query execution and backend pipelines, reducing average API latency by **35%** under concurrent load.
-- Removed redundant network round-trips to improve backend throughput and reliability.
-
----
-
-## `currently`
-
-```text
-→ sharpening Go backend engineering
-→ building distributed / systems projects
-→ grinding competitive programming
-→ learning by implementing the internals
-```
-
----
-
-## `connect`
-
-<div align="center">
-
-<a href="https://github.com/wreckx-in-scene">
-  <img src="https://img.shields.io/badge/GitHub-wreckx--in--scene-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:amoghdandotiya123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-amoghdandotiya123%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<sub>building systems, breaking bottlenecks, learning how things actually work.</sub>
-
-</div>
