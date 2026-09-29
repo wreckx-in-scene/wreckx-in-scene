@@ -1,131 +1,194 @@
+<h1 align="center">Hi 👋, I'm Amogh Dandotiya</h1>
+
+<h3 align="center">Software Engineer focused on Backend, Systems & Distributed Computing</h3>
+
 <p align="center">
-  <img src="./header.svg" width="100%" />
+  Building backend infrastructure and systems software with Go & C++
 </p>
-# Hi, I'm Amogh Dandotiya 👋
 
-### Backend & Systems Engineer
-
-Building backend infrastructure, high-performance systems, and developer-focused software with **Go and C++**.
-
-Interested in **distributed systems, concurrency, networking, databases, and systems programming**.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wreckx-in-scene&label=Profile%20views&color=0e75b6&style=flat" alt="wreckx-in-scene" />
+</p>
 
 ---
 
-## About Me
+### 🔭 Currently Building
 
-* 🎓 CSE undergraduate at **IIIT Kalyani**
-* ⚙️ Building backend and systems software primarily with **Go & C++**
-* 🧩 Interested in **distributed systems, networking, concurrency, databases, and system design**
-* 🔧 I enjoy building systems from scratch to understand how they work internally
-* 🧠 **700+ algorithmic problems** solved across competitive programming platforms
-* 🚀 Currently focused on becoming a stronger **backend / systems engineer**
+**[Sharded Key-Value Database](https://github.com/wreckx-in-scene/go-setu)**
 
----
+### 🌱 Currently Learning
 
-## Tech Stack
+**Distributed Systems · Storage Systems · Go**
 
-**Languages**
+### 💻 Competitive Programming
 
-`Go` `C++` `C` `JavaScript` `SQL`
+**700+ problems solved · Codeforces 1362 · LeetCode 1625 · CodeChef 3★**
 
-**Backend & APIs**
+### 📫 Reach Me
 
-`REST` `gRPC` `Gin` `Microservices`
-
-**Databases & Storage**
-
-`PostgreSQL` `Redis` `SQLite` `MongoDB` `MySQL`
-
-**Systems & Networking**
-
-`Concurrency` `Multithreading` `Networking` `Distributed Systems` `Rate Limiting`
-
-**Infrastructure & Tools**
-
-`Docker` `Docker Compose` `Git` `GitHub` `CMake` `CI/CD`
-
-**Specialized**
-
-`HNSW` `Vector Search` `RAG` `Ollama` `Bytecode VMs` `Compiler Design`
+**amoghdandotiya123@gmail.com**
 
 ---
 
-## Featured Projects
+<h3 align="left">Connect with me:</h3>
 
-| Project       | Stack                                   | Description                                                                                                                                                                                 |
-| ------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AuthForge** | Go · gRPC · PostgreSQL · Redis · Docker | Multi-tenant authentication platform with tenant isolation, API-key resolution, JWT signing, refresh-token rotation, Redis caching, and distributed rate limiting.                          |
-| **FlowDPI**   | C++17 · PCAP · Networking · CMake       | Multi-threaded deep packet inspection engine with zero-copy TLS Client Hello/SNI parsing, connection tracking, 5-tuple flow hashing, and concurrent packet-processing pipelines.            |
-| **VectorDB**  | C++ · Go · HNSW · Ollama                | Vector search engine and local RAG system featuring HNSW approximate nearest-neighbor search, multiple distance metrics, Ollama embeddings, and benchmarking against KD-trees.              |
-| **GoVM**      | Go · Compiler · VM                      | Bytecode compiler and stack-based virtual machine implementing a Lox-like language with scanning, Pratt parsing, bytecode generation, functions, closures, recursion, and native functions. |
+<p align="left">
+<a href="https://linkedin.com/in/amogh-dandotiya" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amogh-dandotiya" height="30" width="40" />
+</a>
 
-### 🔗 Project Repositories
+<a href="https://www.codeforces.com/profile/wreckx_26" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wreckx_26" height="30" width="40" />
+</a>
 
-* [AuthForge](https://github.com/wreckx-in-scene/AuthForge)
-* [FlowDPI](https://github.com/wreckx-in-scene/FlowDPI)
-* [VectorDB](https://github.com/wreckx-in-scene/VectorDB)
-* [GoVM](https://github.com/wreckx-in-scene/GoVM)
+<a href="https://www.leetcode.com/wreckx_26" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wreckx_26" height="30" width="40" />
+</a>
 
----
+<a href="https://www.codechef.com/users/wreckx_26" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wreckx_26" height="30" width="40" />
+</a>
 
-## Experience
-
-### Software Development Intern — Wisit Digital Innovations
-
-**Jun 2025 – Aug 2025**
-
-* Architected and developed REST-based backend microservices.
-* Optimized PostgreSQL-backed backend pipelines for concurrent workloads.
-* Reduced average API latency by **35%** under concurrent load.
-* Removed redundant network round-trips across backend request flows.
+<a href="https://auth.geeksforgeeks.org/user/amoghdandryoh" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amoghdandryoh" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## Achievements
+<h3 align="left">Languages & Tools:</h3>
 
-* 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
-* 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
-* 💻 **700+ algorithmic problems** solved across competitive programming platforms
-* ⭐ **Codeforces — 1362**
-* ⭐ **LeetCode — 1625**
-* ⭐ **CodeChef — 3 Star**
+<p align="left">
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-## What I'm Exploring
+<h3 align="left">Featured Projects:</h3>
 
-Currently going deeper into:
-
-* Distributed systems
-* High-performance backend engineering
-* Go internals & idiomatic backend architecture
-* C++ systems programming
-* Networking & concurrency
-* Databases and storage engines
-* System design
+| Project | Description |
+|---|---|
+| **[AuthForge](https://github.com/wreckx-in-scene/AuthForge)** | Multi-tenant authentication platform built with Go, gRPC, PostgreSQL and Redis. |
+| **[FlowDPI](https://github.com/wreckx-in-scene/FlowDPI)** | Multi-threaded C++ deep packet inspection engine with packet parsing, connection tracking and concurrent processing. |
+| **[VectorDB](https://github.com/wreckx-in-scene/VectorDB)** | C++ vector engine with HNSW search, embeddings and local RAG. |
+| **[GoVM](https://github.com/wreckx-in-scene/GoVM)** | Bytecode compiler and stack-based virtual machine implemented in Go. |
 
 ---
 
-## Currently Building
+<h3 align="left">Experience:</h3>
 
-## Currently Building
+**Software Development Intern — Wisit Digital Innovations**
 
-> **Sharded Key-Value Database**
-
-Exploring **data partitioning, concurrent access, replication, and distributed storage** while building a key-value database from scratch.
-
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/amogh-dandotiya/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-wreckx--in--scene-black?style=flat-square\&logo=github)](https://github.com/wreckx-in-scene)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/u/wreckx_26/)
+- Architected and developed REST-based backend microservices.
+- Optimized PostgreSQL-backed backend pipelines for concurrent workloads.
+- Reduced average API latency by **35%** under concurrent load.
+- Removed redundant network round-trips across backend request flows.
 
 ---
 
-<p align="center">
-  <i>Building systems. Breaking abstractions. Learning how things work underneath.</i>
+<h3 align="left">Achievements:</h3>
+
+- 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
+- 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
+- 💻 **700+ algorithmic problems** solved
+- ⭐ **Codeforces — 1362**
+- ⭐ **LeetCode — 1625**
+- ⭐ **CodeChef — 3 Star**
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wreckx-in-scene&show_icons=true&locale=en&layout=compact" alt="wreckx-in-scene" />
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wreckx-in-scene&show_icons=true&locale=en" alt="wreckx-in-scene" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wreckx-in-scene" alt="wreckx-in-scene" />
 </p>
