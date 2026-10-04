@@ -26,7 +26,7 @@
 
 ### 📫 Reach Me
 
-**amoghdandotiya123@gmail.com**
+**[amoghdandotiya123@gmail.com](mailto:amoghdandotiya123@gmail.com)**
 
 ---
 
@@ -146,12 +146,12 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-| Project | Description |
-|---|---|
-| **[AuthForge](https://github.com/wreckx-in-scene/AuthForge)** | Multi-tenant authentication platform built with Go, gRPC, PostgreSQL and Redis. |
-| **[FlowDPI](https://github.com/wreckx-in-scene/FlowDPI)** | Multi-threaded C++ deep packet inspection engine with packet parsing, connection tracking and concurrent processing. |
-| **[VectorDB](https://github.com/wreckx-in-scene/VectorDB)** | C++ vector engine with HNSW search, embeddings and local RAG. |
-| **[GoVM](https://github.com/wreckx-in-scene/GoVM)** | Bytecode compiler and stack-based virtual machine implemented in Go. |
+| Project                                                                         | Description                                                                                                          |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **[GoWallet](https://github.com/wreckx-in-scene/GoWallet)**                     | Backend wallet system built with Go, focused on secure financial transactions and backend service design.            |
+| **[FlowDPI](https://github.com/wreckx-in-scene/FlowDPI)**                       | Multi-threaded C++ deep packet inspection engine with packet parsing, connection tracking and concurrent processing. |
+| **[VectorDB](https://github.com/wreckx-in-scene/VectorDB)**                     | C++ vector engine with HNSW search, embeddings and local RAG.                                                        |
+| **[ecommerce-platform](https://github.com/wreckx-in-scene/ecommerce-platform)** | Backend e-commerce platform built with FastAPI, focusing on scalable API design and service architecture.            |
 
 ---
 
@@ -159,21 +159,21 @@
 
 **Software Development Intern — Wisit Digital Innovations**
 
-- Architected and developed REST-based backend microservices.
-- Optimized PostgreSQL-backed backend pipelines for concurrent workloads.
-- Reduced average API latency by **35%** under concurrent load.
-- Removed redundant network round-trips across backend request flows.
+* Architected and developed REST-based backend microservices.
+* Optimized PostgreSQL-backed backend pipelines for concurrent workloads.
+* Reduced average API latency by **35%** under concurrent load.
+* Removed redundant network round-trips across backend request flows.
 
 ---
 
 <h3 align="left">Achievements:</h3>
 
-- 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
-- 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
-- 💻 **700+ algorithmic problems** solved
-- ⭐ **Codeforces — 1362**
-- ⭐ **LeetCode — 1625**
-- ⭐ **CodeChef — 3 Star**
+* 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
+* 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
+* 💻 **700+ algorithmic problems** solved
+* ⭐ **Codeforces — 1362**
+* ⭐ **LeetCode — 1625**
+* ⭐ **CodeChef — 3 Star**
 
 ---
 
