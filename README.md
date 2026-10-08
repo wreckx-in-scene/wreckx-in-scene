@@ -22,7 +22,7 @@
 
 ### 💻 Competitive Programming
 
-**700+ problems solved · Codeforces 1362 · LeetCode 1625 · CodeChef 3★**
+**700+ problems solved · Codeforces 1449 · LeetCode 1625 · CodeChef 3★**
 
 ### 📫 Reach Me
 
