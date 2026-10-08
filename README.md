@@ -171,7 +171,7 @@
 * 🏆 **Top 10 Finalist** among 455+ participants — iRage AlgoArena '26
 * 🥈 **2nd Place — Hardware Track** — StatusCode 1 Hackathon
 * 💻 **700+ algorithmic problems** solved
-* ⭐ **Codeforces — 1362**
+* ⭐ **Codeforces — 1449**
 * ⭐ **LeetCode — 1625**
 * ⭐ **CodeChef — 3 Star**
 
